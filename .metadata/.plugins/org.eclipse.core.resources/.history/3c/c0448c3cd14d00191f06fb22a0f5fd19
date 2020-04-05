@@ -1,0 +1,13 @@
+package MyPackage;
+
+public class Date {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println(new Date());
+		String S = new Date().toString();
+		System.out.println(S);
+
+	}
+
+}

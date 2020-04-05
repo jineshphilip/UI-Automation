@@ -1,0 +1,15 @@
+package MyPackage;
+
+public class Hey {
+	public static void main(String[] args){
+		
+	
+public static void mymethod(){
+	System.out.println("Hello its me Jineshs");
+}
+
+	}
+
+}
+
+

@@ -1,0 +1,12 @@
+package MyPackage;
+
+public class NewThree extends Newtwo {
+
+	public static void main(String[] args) {
+		
+jackdan();
+Nevah();
+
+	}
+
+}

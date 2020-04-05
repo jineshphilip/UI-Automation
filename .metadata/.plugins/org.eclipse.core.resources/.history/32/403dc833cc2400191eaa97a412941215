@@ -1,0 +1,14 @@
+package MyPackage;
+
+public class Newtwo extends Newone {
+
+	public static void main(String[] args) {
+		Sum();
+		jackdan();
+
+	}
+	public static void JD(){
+		System.out.println("Hello Me here");
+	}
+
+}

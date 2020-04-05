@@ -1,0 +1,19 @@
+package MyPackage;
+
+public class Newtwo extends Newone {
+
+	public static void main(String[] args) {
+		Sum();
+		jackdan();
+		JD();
+
+	}
+	public static void JD(){
+		System.out.println("Hello Me here");
+	}
+	public static void Nevah(){
+		String a = "Nevah";
+		
+	}
+
+}

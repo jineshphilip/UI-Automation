@@ -1,0 +1,40 @@
+package MyPackage;
+
+public class Newone {
+	public static void main(String[] args){
+	int i = 1;	
+jackdan();
+		
+	}
+		public static void jack(){
+			System.out.println("Hello this is correct");
+		
+		
+	}
+		public static void dan(){
+			System.out.println("Hey this is not correct");
+			
+		}
+		public static void jackdan(){
+			
+			for (int i=1 ; i< 20 ;i++){
+				System.out.println(i);
+
+				//System.out.println(i);//
+				if (i==20){
+					System.out.println("Loop ended successfully");}
+					else{
+						System.out.println("The loop is not ended ");
+			}
+			System.out.println("This loop is finished");
+			
+			
+/*if (i==20){
+				System.out.println("Loop ended successfully");}
+				else{
+					System.out.println("The loop is not ended ");
+				}*/
+					
+			}
+		
+		}}

@@ -1,0 +1,11 @@
+package MyPackage;
+
+public class jino {
+
+	public static void main(String[] args) {
+		
+System.out.println("Hello");
+
+	}
+
+}

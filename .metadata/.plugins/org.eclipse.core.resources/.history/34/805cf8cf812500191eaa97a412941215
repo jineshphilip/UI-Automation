@@ -1,0 +1,37 @@
+package MyPackage;
+
+public class NewThree extends Newtwo {
+
+	public static void main(String[] args) {
+		
+jackdan();
+Nevah();
+result();
+division();
+multiplication();
+
+	}
+	
+	public static void result(){
+		double a = 100.9987;
+		double b = 50.566222;
+		double c = a-b;
+		System.out.println("The Result =" +c );
+	}
+	public static void division(){
+		double j = 19899.098;
+		double k = 99998.9989;
+		double l = j/k;
+		System.out.println("Results Division =" +l);
+	}
+	public static void multiplication(){
+		int o = 10000;
+		double i = 189.78866;
+		double k = o*i;
+		System.out.println(k);
+				
+				
+	}
+	
+
+}

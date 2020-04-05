@@ -1,0 +1,28 @@
+package MyPackage;
+
+public class NewThree extends Newtwo {
+
+	public static void main(String[] args) {
+		
+jackdan();
+Nevah();
+result();
+
+
+	}
+	
+	public static void result(){
+		double a = 100.9987;
+		double b = 50.566222;
+		double c = a-b;
+		System.out.println("The Result =" +c );
+	}
+	public static void division(){
+		double j = 19899.098;
+		double k = 99998.9989;
+		double l = j/k;
+		System.out.println(l);
+	}
+	
+
+}

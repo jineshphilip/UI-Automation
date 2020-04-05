@@ -1,0 +1,23 @@
+package MyPackage;
+
+public class Newtwo extends Newone {
+
+	public static void main(String[] args) {
+		Sum();
+		jackdan();
+		JD();
+		Nevah();
+
+	}
+	public static void JD(){
+		System.out.println("Hello Me here");
+	}
+	public static void Nevah(){
+		String a = "Nevah";
+		String b = "Jinesh";
+		String c = "1811 SW Nottingham Ave, Bentonville, AR 72712";
+		System.out.println(a);
+		
+	}
+
+}

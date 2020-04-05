@@ -1,0 +1,24 @@
+package MyPackage;
+
+public class Newone {
+	public static void main(String[] args){
+		
+jackdan();
+		
+	}
+		public static void jack(){
+			System.out.println("Hello this is correct");
+		
+		
+	}
+		public static void dan(){
+			System.out.println("Hey this is not correct");
+			
+		}
+		public static void jackdan(){
+			for (int i = 10 ; i< 20 ;i++){
+				System.out.println(i);
+			}
+		}
+
+}
